@@ -1,0 +1,8 @@
+__pycache__
+result
+data
+log.txt
+capture
+*~
+*.png
+*.jpg
